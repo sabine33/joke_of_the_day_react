@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.joke {
+  border: 1px solid #ddd;
+  padding: 20px;
+  font-family: "Ubuntu";
+}
