@@ -1,2 +1,5 @@
 # joke_of_the_day_react
-Created with CodeSandbox
+
+Display daily jokes using joke of the day API
+
+- learning react
